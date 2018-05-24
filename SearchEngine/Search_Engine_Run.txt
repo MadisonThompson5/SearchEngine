@@ -1,0 +1,119 @@
+Enter query or quit: Informatics
+
+ To open link cmd then double click the link
+
+1. http://www.ics.uci.edu/~gbowker/converge.html
+
+2. http://www.ics.uci.edu/community/news/notes/notes_2008.php
+
+3. http://www.ics.uci.edu/community/news/notes/notes_2012.php
+
+4. http://www.ics.uci.edu/community/news/notes/notes_2014.php
+
+5. http://www.ics.uci.edu/community/news/notes/notes_2009.php
+
+6. http://www.ics.uci.edu/community/news/notes/notes_2013.php
+
+7. http://www.ics.uci.edu/community/news/view_news.php?id=1059
+
+8. http://www.ics.uci.edu/community/news/features/view_feature?id=101
+
+9. http://www.ics.uci.edu/community/news/view_news?id=1059
+
+10. http://informatics.ics.uci.edu
+
+Enter query or quit: Mondego
+
+ To open link cmd then double click the link
+
+1. http://www.ics.uci.edu/~lopes
+
+2. http://www.ics.uci.edu/~lopes/datasets
+
+3. http://www.ics.uci.edu/~lopes/datasets/SDS_source-repo-18k.html
+
+4. http://www.ics.uci.edu/~lopes/datasets/Koders-log-2007.html
+
+5. http://www.ics.uci.edu/~lopes/datasets/sourcerer-maven-aug12.html
+
+6. http://cml.ics.uci.edu?cat=4
+
+7. http://www.ics.uci.edu/community/news/articles/view_article?id=399 
+
+8. http://www.ics.uci.edu/community/news/notes/notes_2008.php
+
+9. http://evoke.ics.uci.edu?C=N;O=A
+
+10. http://www.ics.uci.edu/faculty/../employment/../community/icsjobs/../alumni/stayconnected/../../news/index.php
+
+Enter query or quit: Irvine
+
+ To open link cmd then double click the link
+
+1. http://flamingo.ics.uci.edu/releases/3.0/src/util/unittest.cc
+
+2. http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=gtsudik
+
+3. http://www.ics.uci.edu/~fowlkes/presentations.html
+
+4. http://www.ics.uci.edu/~fowlkes/publications.html
+
+5. http://www.ics.uci.edu/~fowlkes/software.html
+
+6. http://www.ics.uci.edu/~fowlkes/imageunderstanding/index.html
+
+7. http://www.ics.uci.edu/~fowlkes/publications2.html
+
+8. http://jujube.ics.uci.edu/localsearch/fuzzysearch/geonamesdemo
+
+9. http://www.ics.uci.edu/~fowlkes
+
+10. http://www.ics.uci.edu/~fowlkes/bioshape/index.html
+
+Enter query or quit: artificial intelligence
+
+ To open link cmd then double click the link
+
+1. http://www.ics.uci.edu/community/news/articles/view_article?id=344
+
+2. http://isg.ics.uci.edu/events.html
+
+3. http://www.ics.uci.edu/~thornton/ics46/ProjectGuide/Project2
+
+4. http://www.ics.uci.edu/community/news/notes/notes_2012.php
+
+5. http://www.ics.uci.edu/community/news/notes/notes_2013.php
+
+6. http://www.ics.uci.edu/~dechter/books/about.html
+
+7. http://cml.ics.uci.edu/category/news/page/2
+
+8. http://sli.ics.uci.edu/Classes/2011F-171
+
+9. http://www.ics.uci.edu/~thornton/ics23/LabManual/BlackAndWhite
+
+10. http://www.ics.uci.edu/~irani/w10_23/Lab2/BlackAndWhite.htm
+
+Enter query or quit: computer science
+
+ To open link cmd then double click the link
+
+1. http://www.ics.uci.edu/community/news/notes/notes_2014.php
+
+2. http://www.ics.uci.edu/~pattis/quotations.html
+
+3. http://www.ics.uci.edu/community/news/notes/notes_2008.php
+
+4. http://www.ics.uci.edu/community/news/notes/notes_2010.php
+
+5. http://www.ics.uci.edu/~gbowker/classification
+
+6. http://isg.ics.uci.edu/events.html
+
+7. http://www.ics.uci.edu/community/news/notes/notes_2012.php
+
+8. http://www.ics.uci.edu/community/news/notes/notes_2009.php
+
+9. http://www.ics.uci.edu/community/news/notes/notes_2013.php
+
+10. http://www.ics.uci.edu/community/news/notes
